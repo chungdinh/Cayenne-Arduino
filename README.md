@@ -1,2 +1,2 @@
 # Cayenne-Arduino
-Smart garden with Arduino and Cayenne.
+Smart garden with Arduino, Ethernet shield and Cayenne.
